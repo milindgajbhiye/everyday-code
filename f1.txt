@@ -1,0 +1,31 @@
+# Simple Java Project – Day 1
+
+## About
+This is a simple Java program created for daily practice.
+It focuses on applying basic concepts of:
+
+- Object-Oriented Programming (OOP)
+- Fundamental logic building
+- Simple Data Structures usage
+
+The goal is consistency and strengthening core Java fundamentals through small projects.
+
+---
+
+## Java Code
+
+```java
+// Day 1: Simple Java program using OOP concept
+
+class Greeting {
+    void sayHello() {
+        System.out.println("Hello, GitHub Day 1!");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Greeting g = new Greeting();
+        g.sayHello();
+    }
+}
