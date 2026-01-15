@@ -19,7 +19,7 @@ This is part of my daily Java practice to build strong fundamentals.
 
 class NumberPrinter {
     void printNumbers(int n) {
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             System.out.println(i);
         }
     }
