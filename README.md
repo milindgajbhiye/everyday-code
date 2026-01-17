@@ -1,7 +1,7 @@
-# Daily Java Mini Projects
+# Daily  Mini Projects
 
 ## About This Repository
-This repository contains a collection of small and simple Java projects that I build daily to strengthen my core programming skills.
+This repository contains a collection of small and simple  projects that I build daily to strengthen my core programming skills.
 
 Each project focuses on practicing and applying fundamental concepts such as:
 - Object-Oriented Programming (OOP)
@@ -16,7 +16,7 @@ The main goal of this repository is to maintain consistency in coding while impr
 ## How This Repository Is Organized
 Each day has its own Markdown file which includes:
 - A short description of the project
-- The Java code
+- The programming  code
 - The concepts used
 
 
@@ -36,6 +36,7 @@ This helps in:
 
 ## Technologies Used
 - Java
+- Python
 - Markdown (for documentation and code presentation)
 
 ---
