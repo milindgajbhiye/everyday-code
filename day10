@@ -1,0 +1,31 @@
+# Simple Python Project – Day 10
+
+## About
+This project is part of my daily Python practice routine.
+It focuses on understanding how functions and loops work together to solve a simple problem.
+The idea is to strengthen logic building and write clean, readable Python code while practicing consistently.
+
+This project avoids complexity and instead emphasizes clarity and correct usage of core concepts.
+
+---
+
+## Python Code
+
+```python
+# Day 10: Count vowels in a given string
+
+def count_vowels(text):
+    vowels = "aeiouAEIOU"
+    count = 0
+
+    for char in text:
+        if char in vowels:
+            count += 1
+
+    return count
+
+
+sentence = "Learning Python every day"
+vowel_count = count_vowels(sentence)
+
+print("Number of vowels:", vowel_count)
