@@ -1,0 +1,28 @@
+# Simple Python Project – Day 13
+
+## About
+This project focuses on basic input handling and string manipulation in Python.
+It demonstrates how to take user input, process it, and display a meaningful result.
+The goal is to practice interaction with users and simple text processing.
+
+---
+
+## Python Code
+
+```python
+# Day 13: Reverse a given string
+
+def reverse_string(text):
+    reversed_text = ""
+
+    for char in text:
+        reversed_text = char + reversed_text
+
+    return reversed_text
+
+
+user_input = "Python Practice"
+result = reverse_string(user_input)
+
+print("Original string:", user_input)
+print("Reversed string:", result)
