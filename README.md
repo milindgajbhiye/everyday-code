@@ -34,7 +34,7 @@ This helps in:
 
 ---
 
-## Technologies Used
+## Technologies Used in this project 
 - Java
 - Python
 - Markdown (for documentation and code presentation)
