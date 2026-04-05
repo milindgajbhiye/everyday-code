@@ -7,7 +7,7 @@ Each project focuses on practicing and applying fundamental concepts such as:
 - Object-Oriented Programming (OOP)
 - Basic Data Structures
 - Control flow and logic building
-- Clean and readable Java code
+- Clean and readable Java code and also python codes 
 
 The main goal of this repository is to maintain consistency in coding while improving problem-solving and Java fundamentals through hands-on practice.
 
