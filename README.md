@@ -6,6 +6,7 @@ This repository contains a collection of small and simple  projects that I build
 Each project focuses on practicing and applying fundamental concepts such as:
 - Object-Oriented Programming (OOP)
 - Basic Data Structures
+- For better understanding of codes 
 - Control flow and logic building
 - Clean and readable Java code and also python codes 
 
