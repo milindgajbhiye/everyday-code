@@ -21,7 +21,7 @@ Each day has its own Markdown file which includes:
 - The concepts used
 
 
-This approach allows me to track my daily progress and build a visible history of continuous learning.
+This approach allows me to track my daily progress and build a visible history of continuous learning and things to improve.
 
 ---
 
