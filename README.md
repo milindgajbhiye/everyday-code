@@ -37,7 +37,7 @@ This helps in:
 
 ## Technologies Used in this project 
 - Java
-- Python
+- Python 3.11
 - Markdown (for documentation and code presentation)
 
 ---
