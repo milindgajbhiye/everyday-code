@@ -10,7 +10,7 @@ The goal is to strengthen understanding of loops and modular arithmetic.
 ## Python Code
 
 ```python
-# Day 32: Count numbers divisible by a given value
+# Day 32: Count numbers divisible by a given value from anywhere
 
 def count_divisible(numbers, divisor):
     count = 0
